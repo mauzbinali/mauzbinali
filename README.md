@@ -54,8 +54,6 @@ A polished multi-role healthcare mobile app for patients, doctors, and administr
 
 **Tech:** Flutter, Dart, Firebase Auth, Cloud Firestore, Firebase Storage, Firebase Messaging, Riverpod, GoRouter, Hive, Flutter Animate, Lottie, Table Calendar, FL Chart
 
-**Repository:** https://github.com/mauzbinali/medlink
-
 ## 📫 Contact
 
 GitHub: https://github.com/mauzbinali
