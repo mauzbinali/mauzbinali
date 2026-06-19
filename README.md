@@ -44,9 +44,17 @@ An AI-style sign language learning and hand sign reader app built with Flutter. 
 
 **Tech:** Flutter, Dart, Camera Integration, AI-style UI, Custom Assets, Text-to-Speech Concept
 
-## 🎯 Current Focus
+---
 
-I'm building portfolio-level Flutter apps to showcase real-world mobile development skills and help businesses launch clean, modern, and functional mobile applications.
+### 🩺 MedLink — Doctor Appointment & Telemedicine App
+
+A polished multi-role healthcare mobile app for patients, doctors, and administrators. MedLink streamlines doctor discovery, appointment booking, prescriptions, medical records, and telemedicine workflows in one modern Flutter experience.
+
+**Features:** Patient, Doctor, and Admin portals; doctor search and specialty filters; appointment booking, rescheduling, and cancellation; doctor availability management; digital prescriptions with PDF download and sharing; medical record uploads; video consultation and chat mock UI; ratings, favorites, notifications, health tips, responsive layouts, dark mode, animations, and loading states.
+
+**Tech:** Flutter, Dart, Firebase Auth, Cloud Firestore, Firebase Storage, Firebase Messaging, Riverpod, GoRouter, Hive, Flutter Animate, Lottie, Table Calendar, FL Chart
+
+**Repository:** https://github.com/mauzbinali/medlink
 
 ## 📫 Contact
 
